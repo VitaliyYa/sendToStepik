@@ -1,0 +1,4 @@
+.vscode/
+selenium_env/
+chrome-data/
+geckodriver.log
